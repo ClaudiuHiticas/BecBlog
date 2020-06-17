@@ -1,2 +1,2 @@
 # BecBlog
-This is a simple exemple for a blog created in Flask Python. 
+This is a simple example for a blog created in Flask Python. 
